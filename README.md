@@ -1,7 +1,11 @@
-# 🧾 Employee Management System (Backend)
+### 🔹 [Employee Management System](https://github.com/snehabenny12/EMPLOYEEMANAGEMENT)
 
-A backend Django REST API for managing employee records — built with Django REST Framework.  
-This project provides basic CRUD functionality for employee data, ideal for integration with a frontend UI.
+A backend Django REST API project for managing employee records.  
+✅ Features:
+- API endpoints for CRUD operations  
+- Connected to a relational database (SQLite/MySQL)  
+- Built using Django REST Framework  
+> *Frontend integration planned for future*
 
 ---
 
@@ -12,6 +16,3 @@ This project provides basic CRUD functionality for employee data, ideal for inte
 - Django REST Framework
 - SQLite (default) or MySQL
 - Git & GitHub
-
----
-
